@@ -1,0 +1,71 @@
+
+
+#one {
+    background-image: url(./images/Shape.png);
+    /* min-height: 100vh; */
+    width: 100%;
+}
+
+#one h1{
+    font-weight: bolder;
+    font-family: georgia;
+}
+
+#two{
+    /* min-height: 80vh; */
+    width: 100%;
+    
+}
+
+#two h1{
+font-weight: bolder;
+font-family: georgia;
+}
+
+#three {
+    background-image: url(./images/Shape.png);
+    /* min-height: 100vh; */
+    width: 100%;
+}
+
+#three h1{
+    font-weight: bolder;
+    font-family: georgia;
+}
+
+.card-body{
+    background-color: rgb(34, 33, 33);
+    color: aliceblue;
+    text-align: center;
+}
+
+h5{text-shadow: 0.5px 1px 3px rgb(202, 174, 17);
+    font-family: georgia;
+    font-weight: bolder;
+
+}
+
+span{
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

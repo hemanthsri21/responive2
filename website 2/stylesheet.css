@@ -1,0 +1,521 @@
+ * {
+     overflow-x: hidden;
+ }
+
+ .one {
+     position: relative;
+ }
+
+ .first {
+     background-image: url(./images/Shape.png);
+     background-size: cover;
+     min-height: 600px;
+ }
+
+ .dog1 {
+     display: inline;
+     float: right;
+     margin-right: 190px;
+     margin-top: 30px;
+
+ }
+
+ .logo {
+     display: inline;
+     float: left;
+     margin-top: 30px;
+     margin-left: 50px;
+ }
+
+.logo:hover{
+    filter: drop-shadow(100%);
+}
+
+ ul,
+ li {
+     display: inline;
+ }
+
+
+ .home {
+     margin-top: 50px;
+     margin-left: 200px;
+     word-spacing: 70px;
+     font-size: x-large;
+
+ }
+
+ a {
+     text-decoration: none;
+     color: white;
+     font-weight: bolder;
+ }
+
+ a:hover {
+     color: black;
+ }
+
+ button {
+     background-color: transparent;
+     border-radius: 7px;
+     width: 150px;
+     padding: 8px;
+     color: white;
+     font-weight: bolder;
+
+ }
+
+ .title {
+     margin-top: 70px;
+     margin-left: 100px;
+
+ }
+
+ .fp {
+     margin-top: 50px;
+     margin-left: 120px;
+     font-size: larger;
+     font-weight: bold;
+     color: whitesmoke;
+     text-shadow: grey 0.5px 0.5px 5px;
+ }
+
+ .cont {
+     float: left;
+     margin-top: 50px;
+     margin-left: 150px;
+     font-size: larger;
+     font-weight: bolder;
+     font-family: Georgia;
+     padding: 10px;
+     color: black;
+     border-width: 3px;
+ }
+
+ .service {
+     margin-top: 50px;
+     margin-left: 200px;
+     font-size: larger;
+     font-weight: bolder;
+     font-family: Georgia;
+     padding: 10px;
+     color: black;
+     border-width: 3px;
+ }
+
+ button:hover {
+     background-color: aquamarine;
+ }
+
+ /*-- end of first page --*/
+
+
+ .two {
+     background-color: white;
+     height: 600px;
+ }
+
+
+ .dog2 {
+     float: right;
+     width: 300px;
+     height: 300px;
+     margin-top: 150px;
+     margin-right: 200px;
+ }
+
+ .transparent {
+     float: right;
+     width: 300px;
+     height: 300px;
+     margin-top: 150px;
+     margin-right: -300px;
+ }
+
+ .round {
+     width: 50px;
+     height: 50px;
+     float: right;
+     margin-right: -165px;
+     margin-top: 270px;
+ }
+
+ .play {
+     width: 25px;
+     height: 25px;
+     float: right;
+     margin-right: -155px;
+     margin-top: 283px;
+ }
+
+ .title2 {
+     margin-top: 150px;
+     margin-left: 110px;
+ }
+
+ .fp{
+    color: black;
+    text-shadow: grey 1px 1px 3px;
+    text-align: center;
+ }
+
+ .service2 {
+     background-color: gold;
+     font-size: larger;
+     font-weight: bolder;
+     font-family: Georgia;
+     margin-left: 250px;
+     margin-top: 30px;
+ }
+
+ /* end of second page */
+
+ .three {
+     background-image: url(./images/Shape.png);
+     background-size: cover;
+     height: 600px;
+
+ }
+
+ .h1 {
+     text-align: center;
+     font-size: 60px;
+     font-family: Georgia;
+     margin-top: 20px;
+     text-shadow: grey 1px 1px 3px;
+
+ }
+
+ .h2 {
+     text-align: center;
+     text-indent: justify;
+     margin-top: -20px;
+ }
+
+
+ .ci {
+     width: 270px;
+     height: 220px;
+     margin-left: 125px;
+     border: inset black 3px;
+ }
+
+
+ b {
+     margin-left: 190px;
+     text-align: center;
+     font-size: x-large;
+     color: white;
+     text-shadow: black 1px 1px 2px;
+ }
+
+ h3 {
+     margin-left: 120px;
+     text-align: center;
+     text-indent: justify;
+     text-shadow: grey 1px 1px 2px;
+ }
+
+/* end of third page */
+
+ .two {
+    background-color: white;
+    height: 600px;
+}
+
+
+.dog2 {
+    float: right;
+    width: 300px;
+    height: 300px;
+    margin-top: 150px;
+    margin-right: 200px;
+}
+
+.transparent {
+    float: right;
+    width: 300px;
+    height: 300px;
+    margin-top: 150px;
+    margin-right: -300px;
+}
+
+.round {
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-right: -165px;
+    margin-top: 270px;
+}
+
+.play {
+    width: 25px;
+    height: 25px;
+    float: right;
+    margin-right: -155px;
+    margin-top: 283px;
+}
+
+.title2 {
+    margin-top: 150px;
+    margin-left: 110px;
+}
+
+.fp{
+   color: black;
+   text-shadow: grey 1px 1px 3px;
+   text-align: center;
+}
+
+.service2 {
+    background-color: gold;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Georgia;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+/* end of fourth page */
+
+
+
+.five {
+    background-image: url(./images/Shape.png);
+    background-size: cover;
+    height: 600px;
+
+}
+
+.h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: Georgia;
+    margin-top: 20px;
+    text-shadow: grey 1px 1px 3px;
+
+}
+
+.h2 {
+    text-align: center;
+    text-indent: justify;
+    margin-top: -20px;
+}
+
+
+.ci {
+    width: 270px;
+    height: 220px;
+    margin-left: 125px;
+    border: inset black 3px;
+}
+
+
+b {
+    margin-left: 230px;
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    text-shadow: black 1px 1px 2px;
+
+}
+
+.button5 {
+    margin-top: 20px;
+    margin-left: 190px;
+    text-align: center;
+    text-indent: justify;
+    text-shadow: grey 1px 1px 2px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+/*end of fifth page*/
+
+
+.six {
+    background-color: white;
+    height: 600px;
+
+}
+
+.h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: Georgia;
+    margin-top: 20px;
+    text-shadow: grey 1px 1px 3px;
+
+}
+
+.h2 {
+    text-align: center;
+    text-indent: justify;
+    margin-top: -20px;
+}
+
+
+.ci {
+    width: 270px;
+    height: 250px;
+    margin-left: 125px;
+    border: inset black 3px;
+}
+
+
+b {
+    margin-left: 190px;
+    text-align: center;
+    font-size: x-large;
+    color: black;
+    text-shadow: black 1px 1px 2px;
+
+}
+
+/*end of sisth page*/
+
+.seven{
+    background-image: url(./images/7th.png);
+    background-repeat: no-repeat;
+    height: 580px;
+}
+
+.seventh{
+    height: 580px;
+    margin-top: -342px;
+    opacity: 0.3;
+}
+
+.icon{
+    width: 150px;
+    height: 150px;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.names{
+    font-family:Georgia;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.num{
+    margin-left :250px;
+    color: white;
+    padding-top: 100px;
+}
+
+/*end of seventh page*/
+
+
+
+.eight{
+    background-color: black;
+    height: 600px;
+}
+
+.eight th{
+    color: white;
+    font-size: 50px;
+    font-family: Georgia;
+
+}
+
+.eight td{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.eight table{
+    width: 50%;
+    margin-top: 120px;
+}
+
+.eight h4{
+    float: right;
+    color: white;
+    margin-top: -300px;
+    margin-right: 300px;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: fantasy;
+    font-weight: lighter;
+}
+
+.eight button{
+    width: 200px;
+    height: 40px;
+    border-radius: 0%;
+    float: right;
+    margin-top: -200px;
+    margin-right: 250px;
+    background-color: gold;
+}
+
+.eight .tele{
+    height: 40px;
+    float: right;
+    border-radius: 0%;
+    background-color: aqua;
+    width: 50px;
+    border-left: gold;
+}
+
+.eight a{
+    color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
